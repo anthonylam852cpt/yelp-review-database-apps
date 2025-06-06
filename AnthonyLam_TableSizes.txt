@@ -1,0 +1,21 @@
+Anthony Lam
+7/5/2024
+CptS451 Milestone-2 TableSizes
+
+Business:
+11481
+
+Reviews:
+416479
+
+Categories:
+33619
+
+Attributes:
+227536
+
+Checkins:
+481360
+
+zipcodeData:
+32630
